@@ -1,0 +1,216 @@
+﻿Initials_SampleNumber,Tank,Date,Fish,Nutrients,Plastic,Trt_code
+JRD_CED1,1,8/27/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED10,10,8/27/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED100,28,6/11/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED101,29,6/11/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED102,30,6/11/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED103,31,6/11/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED104,32,6/11/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED105,33,6/11/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED106,34,6/11/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED107,35,6/11/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED108,36,6/11/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED109,1,6/25/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED11,11,8/27/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED110,2,6/25/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED111,3,6/25/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED112,4,6/25/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED113,5,6/25/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED114,6,6/25/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED115,7,6/25/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED116,8,6/25/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED117,9,6/25/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED118,10,6/25/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED119,11,6/25/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED12,12,8/27/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED120,12,6/25/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED121,13,6/25/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED122,14,6/25/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED123,15,6/25/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED124,16,6/25/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED125,17,6/25/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED126,18,6/25/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED127,19,6/25/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED128,30,7/17/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED129,31,7/17/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED13,13,8/27/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED130,32,7/17/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED131,33,7/17/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED133,35,7/17/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED134,36,7/17/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED135,1,8/6/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED136,2,8/6/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED137,3,8/6/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED138,4,8/6/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED139,5,8/6/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED14,14,8/27/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED140,6,8/6/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED141,7,8/6/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED142,8,8/6/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED143,9,8/6/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED144,10,8/6/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED145,11,8/6/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED146,12,8/6/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED147,13,8/6/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED148,14,8/6/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED149,15,8/6/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED15,15,8/27/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED150,16,8/6/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED151,17,8/6/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED152,18,8/6/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED153,19,8/6/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED154,20,8/6/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED155,21,8/6/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED156,22,8/6/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED157,23,8/6/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED158,24,8/6/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED159,25,8/6/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED16,16,8/27/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED160,26,8/6/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED161,27,8/6/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED162,28,8/6/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED163,29,8/6/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED164,30,8/6/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED165,31,8/6/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED166,32,8/6/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED167,33,8/6/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED168,34,8/6/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED169,35,8/6/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED17,17,8/27/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED170,36,8/6/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED171,20,6/25/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED172,21,6/25/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED173,22,6/25/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED174,23,6/25/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED175,24,6/25/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED176,25,6/25/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED177,26,6/25/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED178,27,6/25/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED179,28,6/25/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED18,18,8/27/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED180,29,6/25/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED181,30,6/25/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED182,31,6/25/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED183,32,6/25/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED184,33,6/25/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED185,34,6/25/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED186,35,6/25/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED187,36,6/25/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED188,1,7/17/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED189,2,7/17/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED19,19,8/27/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED190,3,7/17/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED191,4,7/17/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED192,5,7/17/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED193,6,7/17/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED194,7,7/17/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED195,8,7/17/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED196,9,7/17/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED197,10,7/17/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED198,11,7/17/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED199,12,7/17/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED2,2,8/27/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED20,20,8/27/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED200,13,7/17/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED201,14,7/17/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED202,15,7/17/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED203,16,7/17/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED204,17,7/17/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED205,18,7/17/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED206,19,7/17/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED207,20,7/17/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED208,21,7/17/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED209,22,7/17/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED21,21,8/27/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED210,23,7/17/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED211,24,7/17/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED212,25,7/17/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED213,26,7/17/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED214,27,7/17/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED215,28,7/17/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED216,29,7/17/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED22,22,8/27/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED23,23,8/27/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED24,24,8/27/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED25,25,8/27/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED26,26,8/27/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED27,27,8/27/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED28,28,8/27/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED29,29,8/27/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED3,3,8/27/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED30,30,8/27/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED31,31,8/27/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED32,32,8/27/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED33,33,8/27/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED34,34,8/27/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED35,35,8/27/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED36,36,8/27/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED37,1,5/28/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED38,2,5/28/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED39,3,5/28/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED4,4,8/27/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED40,4,5/28/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED41,5,5/28/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED42,6,5/28/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED43,7,5/28/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED44,8,5/28/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED45,9,5/28/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED46,10,5/28/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED47,11,5/28/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED48,12,5/28/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED49,13,5/28/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED5,5,8/27/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED50,14,5/28/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED51,15,5/28/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED52,16,5/28/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED53,17,5/28/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED54,18,5/28/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED55,19,5/28/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED56,20,5/28/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED57,21,5/28/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED58,22,5/28/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED59,23,5/28/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED6,6,8/27/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED60,24,5/28/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED61,25,5/28/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED62,26,5/28/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED63,27,5/28/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED64,28,5/28/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED65,29,5/28/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED66,30,5/28/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED67,31,5/28/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED68,32,5/28/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED69,33,5/28/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED7,7,8/27/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED70,34,5/28/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED71,35,5/28/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED72,36,5/28/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED73,1,6/11/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED74,2,6/11/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED75,3,6/11/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED76,4,6/11/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED77,5,6/11/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED78,6,6/11/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED79,7,6/11/24,Fish Absent,Increased Nutrients,No Plastic,G
+JRD_CED8,8,8/27/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED80,8,6/11/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED81,9,6/11/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED82,10,6/11/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED83,11,6/11/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED84,12,6/11/24,Fish Present,Increased Nutrients,TPU181,C
+JRD_CED85,13,6/11/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED86,14,6/11/24,Fish Present,Increased Nutrients,No Plastic,A
+JRD_CED87,15,6/11/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED88,16,6/11/24,Fish Present,Increased Nutrients,Elastollan,B
+JRD_CED89,17,6/11/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED9,9,8/27/24,Fish Absent,Ambient Nutrients,TPU181,M
+JRD_CED90,18,6/11/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED91,19,6/11/24,Fish Absent,Increased Nutrients,Elastollan,I
+JRD_CED92,20,6/11/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED93,21,6/11/24,Fish Present,Ambient Nutrients,Elastollan,E
+JRD_CED94,22,6/11/24,Fish Absent,Ambient Nutrients,Elastollan,L
+JRD_CED95,23,6/11/24,Fish Absent,Increased Nutrients,TPU181,J
+JRD_CED96,24,6/11/24,Fish Present,Ambient Nutrients,TPU181,F
+JRD_CED97,25,6/11/24,Fish Present,Ambient Nutrients,No Plastic,D
+JRD_CED98,26,6/11/24,Fish Absent,Ambient Nutrients,No Plastic,K
+JRD_CED99,27,6/11/24,Fish Present,Ambient Nutrients,No Plastic,D
